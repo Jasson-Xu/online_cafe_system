@@ -1,0 +1,9 @@
+/config/local.php
+/var/*
+!/var/.gitkeep
+/node_modules/
+/.tools/
+
+/artifacts/
+/.env
+*.log
