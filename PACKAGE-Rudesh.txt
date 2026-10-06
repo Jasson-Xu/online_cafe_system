@@ -1,0 +1,10 @@
+Assigned component package: Rudesh
+Area: Staff workflow, tests, installation and handover documents
+Balanced planning allocation: 40 effort points per member.
+Source revision: 77e1fd9
+
+All three ZIPs together contain the complete project. Extract them into one folder before installation. One component ZIP is not a runnable site.
+
+For future Git work: clone the shared repository, create your own branch, extract this ZIP to a temporary folder, and copy its assigned files into the clone while preserving paths. Review and change only work you actually complete, run relevant tests, then commit under your own configured Git identity and push your branch for review.
+The remote repository already contains this snapshot. Copying identical files into a clone creates no Git diff or commit; make genuine changes before committing. Do not rewrite author names or commit dates to imply earlier work.
+No local database password, runtime data or Git history is included in this archive.
